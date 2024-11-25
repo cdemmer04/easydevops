@@ -1,11 +1,22 @@
-# .NET build artifacts
+# .NET build artifacts voor frontend/easydevops
+frontend/easydevops/bin/debug/
+frontend/easydevops/obj/debug/
+
+# Algemene .NET build artifacts
 bin/
 obj/
 
-# .NET Core specific
-.project/
-.vs2019/
+# User-specific files
+.vs/
+.idea/
 .vscode/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# ASP.NET Core specific files
+wwwroot/
 
 # Windows Installer files
 *.cab
@@ -13,17 +24,11 @@ obj/
 *.msm
 *.msp
 
-frontend/easydevops/bin/debug
-frontend/easydevops/obj/debug
-
-# User-specific files
-.vs/
-.idea/
-.DS_Store
-Thumbs.db
-
 # JetBrains Rider settings
 .idea/
 
-# ASP.NET Core specific files
-wwwroot/
+# macOS system files
+.DS_Store
+
+# Thumbnails
+Thumbs.db
