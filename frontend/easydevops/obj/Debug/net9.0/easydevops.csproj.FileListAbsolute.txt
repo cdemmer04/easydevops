@@ -1,0 +1,15 @@
+C:\easydevops\frontend\easydevops\bin\Debug\net9.0\easydevops.exe
+C:\easydevops\frontend\easydevops\bin\Debug\net9.0\easydevops.deps.json
+C:\easydevops\frontend\easydevops\bin\Debug\net9.0\easydevops.runtimeconfig.json
+C:\easydevops\frontend\easydevops\bin\Debug\net9.0\easydevops.dll
+C:\easydevops\frontend\easydevops\bin\Debug\net9.0\easydevops.pdb
+C:\easydevops\frontend\easydevops\obj\Debug\net9.0\easydevops.GeneratedMSBuildEditorConfig.editorconfig
+C:\easydevops\frontend\easydevops\obj\Debug\net9.0\easydevops.AssemblyInfoInputs.cache
+C:\easydevops\frontend\easydevops\obj\Debug\net9.0\easydevops.AssemblyInfo.cs
+C:\easydevops\frontend\easydevops\obj\Debug\net9.0\easydevops.csproj.CoreCompileInputs.cache
+C:\easydevops\frontend\easydevops\obj\Debug\net9.0\easydevops.sourcelink.json
+C:\easydevops\frontend\easydevops\obj\Debug\net9.0\easydevops.dll
+C:\easydevops\frontend\easydevops\obj\Debug\net9.0\refint\easydevops.dll
+C:\easydevops\frontend\easydevops\obj\Debug\net9.0\easydevops.pdb
+C:\easydevops\frontend\easydevops\obj\Debug\net9.0\easydevops.genruntimeconfig.cache
+C:\easydevops\frontend\easydevops\obj\Debug\net9.0\ref\easydevops.dll
