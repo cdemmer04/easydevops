@@ -1,6 +1,6 @@
 # .NET build artifacts voor frontend/easydevops
-frontend/easydevops/bin/debug/
-frontend/easydevops/obj/debug/
+frontend/easydevops/bin/Debug/
+frontend/easydevops/obj/Debug/
 
 # Algemene .NET build artifacts
 bin/
