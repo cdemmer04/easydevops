@@ -1,0 +1,26 @@
+# .NET build artifacts
+bin/
+obj/
+
+# .NET Core specific
+.project/
+.vs2019/
+.vscode/
+
+# Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
+
+# User-specific files
+.vs/
+.idea/
+.DS_Store
+Thumbs.db
+
+# JetBrains Rider settings
+.idea/
+
+# ASP.NET Core specific files
+wwwroot/
