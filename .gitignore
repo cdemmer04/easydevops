@@ -13,6 +13,9 @@ obj/
 *.msm
 *.msp
 
+frontend/easydevops/bin/debug
+frontend/easydevops/obj/debug
+
 # User-specific files
 .vs/
 .idea/
