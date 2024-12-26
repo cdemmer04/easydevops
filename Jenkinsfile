@@ -16,7 +16,7 @@ pipeline {
         stage('Deploy') {
             steps {
                 echo 'Deploying....'
-                bat 'dotnet build "frontend/easydevops/FrontendProject.csproj"'
+                bat 'dotnet build "frontend/easydevops/easydevops.csproj"'
 
             }
         }
