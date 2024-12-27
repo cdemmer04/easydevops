@@ -15,7 +15,7 @@ pipeline {
                 bat 'cd frontend/easydevops/obj'
                 snykSecurity(
                     snykInstallation: 'snyk',
-                    snykTokenId: 'snyk-api-token'
+                    snykTokenId: 'snyk-api-token',
                     targetFile: 'frontend/easydevops/obj/'
                 )
             }
