@@ -16,7 +16,7 @@ pipeline {
                 snykSecurity(
                     snykInstallation: 'snyk',
                     snykTokenId: 'snyk-api-token',
-                    targetFile: 'frontend/easydevops/obj/'
+                    targetFile: 'frontend/easydevops/easydevops.csproj'
                 )
             }
         }
