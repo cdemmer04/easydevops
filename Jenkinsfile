@@ -11,8 +11,9 @@ pipeline {
         }
         stage('Test') {
             steps {
-                echo 'Testing..'
-                sleep 3
+                echo 'Running security test...'
+                bat 'cd frontend/easydevops'
+                bat 'snyk test'
             }
         }
         stage('Deploy') {
