@@ -12,7 +12,7 @@ pipeline {
         stage('Test') {
             steps {
                 echo 'Running security test...'
-                bat 'cd frontend/easydevops'
+                bat 'cd frontend/easydevops/obj'
                 snykSecurity(
                     snykInstallation: 'snyk',
                     snykTokenId: 'snyk-api-token'
