@@ -13,7 +13,10 @@ pipeline {
             steps {
                 echo 'Running security test...'
                 bat 'cd frontend/easydevops'
-                bat 'snyk test'
+                snykSecurity(
+                    snykInstallation: 'snyk',
+                    snykTokenId: 'snyk-api-token'
+                )
             }
         }
         stage('Deploy') {
