@@ -19,7 +19,7 @@ pipeline {
                 //     // targetFile: 'frontend/easydevops/obj/project.assets.json'
                 //     targetFile: 'frontend/easydevops/easydevops.csproj'
                 // )
-                bat 'snyk test --file=project.assets.json'
+                bat 'snyk test --file="project.assets.json"'
             }
         }
         stage('Deploy') {
