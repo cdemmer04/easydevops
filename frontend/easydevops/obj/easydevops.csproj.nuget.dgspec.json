@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\data\\easydevops\\frontend\\easydevops\\easydevops.csproj": {}
+    "C:\\Data\\easydevops\\frontend\\easydevops\\easydevops.csproj": {}
   },
   "projects": {
-    "C:\\data\\easydevops\\frontend\\easydevops\\easydevops.csproj": {
+    "C:\\Data\\easydevops\\frontend\\easydevops\\easydevops.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\data\\easydevops\\frontend\\easydevops\\easydevops.csproj",
+        "projectUniqueName": "C:\\Data\\easydevops\\frontend\\easydevops\\easydevops.csproj",
         "projectName": "easydevops",
-        "projectPath": "C:\\data\\easydevops\\frontend\\easydevops\\easydevops.csproj",
+        "projectPath": "C:\\Data\\easydevops\\frontend\\easydevops\\easydevops.csproj",
         "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-        "outputPath": "C:\\data\\easydevops\\frontend\\easydevops\\obj\\",
+        "outputPath": "C:\\Data\\easydevops\\frontend\\easydevops\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config"
