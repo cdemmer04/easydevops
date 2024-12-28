@@ -19,7 +19,7 @@ pipeline {
                 //     // targetFile: 'frontend/easydevops/obj/project.assets.json'
                 //     targetFile: 'frontend/easydevops/easydevops.csproj'
                 // )
-                powershell 'write-host "test haha"'
+                bat 'snyk test'
             }
         }
         stage('Deploy') {
